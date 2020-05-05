@@ -1,4 +1,4 @@
-Run ex1.exe by duble click
+Run ex1.exe by double click
 
 set inputs-> Run
 Life cycle of isolation- set 0/1 for default or other 
