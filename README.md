@@ -12,8 +12,8 @@ No recovery options.
 
 ![inputs](inputs.png)
 ## Description
-* white cell- Healthy
-* Blue cell- empty
+* White cell- Healthy
+* Blue cell- Empty
 * Red Cell-Sick
 
 ![model](model.png)
