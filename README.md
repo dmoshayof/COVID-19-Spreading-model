@@ -6,16 +6,21 @@ Each I cell has 8 neighbours who might be sick and infect the I cell in probabil
 No recovery options.
 
 ## Inputs
-- N: Number of creatures 
-- K: 0-8 isolation parameter (exmp: k=3 only 5 neighbours are considered in infection)
-- Life Cycle of isolation: at what life cycle does isolation begin
+- **N**: Number of creatures 
+- **K**: 0-8 isolation parameter (exmp: k=3 only 5 neighbours are considered in infection)
+- **Life Cycle of isolation**: at what life cycle does isolation begin
 
+![inputs](inputs.png)
 ## Description
+* white cell- Healthy
+* Blue cell- empty
+* Red Cell-Sick
 
-white cell- Healthy
-Blue cell- empty
-Red Cell-Sick
+![model](model.png)
 
+After the model view, a graph will appear according to sick count:
+
+![graph](graph.png)
 ## Requirements
 
 - tkintr
